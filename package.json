@@ -1,0 +1,23 @@
+{
+  "name": "easytoast-f-vue",
+  "version": "1.0.5",
+  "description": "vue toast for PC",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfff/easytoast-f-vue.git"
+  },
+  "keywords": [
+    "vuetoast"
+  ],
+  "author": "Ted Fang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superfff/easytoast-f-vue/issues"
+  },
+  "homepage": "https://github.com/superfff/easytoast-f-vue#readme"
+}
